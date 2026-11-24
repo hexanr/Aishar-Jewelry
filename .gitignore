@@ -1,0 +1,5 @@
+# Local config with real credentials, never commit
+aishar_jewelry/aishar/includes/config.php
+.env
+*.log
+.DS_Store
